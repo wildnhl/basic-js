@@ -18,7 +18,7 @@ describe('Minesweeper', () => {
         [1, 2, 1],
         [2, 1, 1],
         [1, 1, 1],
-      ],
+      ]
     );
 
     assert.deepEqual(
@@ -29,7 +29,7 @@ describe('Minesweeper', () => {
       [
         [0, 0, 0],
         [0, 0, 0],
-      ],
+      ]
     );
   });
 });
